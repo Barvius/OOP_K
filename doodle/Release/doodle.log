@@ -1,0 +1,11 @@
+﻿  Game.cpp
+Game.cpp(37): warning C4305: +=: усечение из "double" к "float"
+Game.cpp(38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Game.cpp(45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  2 of 147 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  doodle.vcxproj -> D:\VS\doodle\Release\doodle.exe
+  doodle.vcxproj -> D:\VS\doodle\Release\doodle.pdb (Full PDB)

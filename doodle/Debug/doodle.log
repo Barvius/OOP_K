@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\vs\doodle\doodle\source.cpp(34): warning C4305: +=: усечение из "double" к "float"
+d:\vs\doodle\doodle\source.cpp(35): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+d:\vs\doodle\doodle\source.cpp(42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\vs\doodle\doodle\source.cpp(183): warning C4305: аргумент: усечение из "double" к "GLfloat"
+d:\vs\doodle\doodle\source.cpp(186): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  doodle.vcxproj -> D:\VS\doodle\Debug\doodle.exe
+  doodle.vcxproj -> D:\VS\doodle\Debug\doodle.pdb (Full PDB)
